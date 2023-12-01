@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="notification_listener">YourServiceName</string>
+</resources>
